@@ -89,7 +89,7 @@ Here are some ideas to get you started:
   </tr><tr>
     <td><strong>Born2beroot</strong></td>
     <td><a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clhxpqlwf003008l2szb5ovnx/project/2608393" alt="mede-sou's 42 Born2beroot Score" /></a></td>
-<td><p>Setting up our own operating system implementing strict rules on a Virtual Machine</p></td>
+<td><p>Set up our own operating system implementing strict rules on a Virtual Machine</p></td>
   <td>System admin.</td>
   </tr>
   <tr>
