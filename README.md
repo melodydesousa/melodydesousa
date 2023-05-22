@@ -60,7 +60,7 @@ Here are some ideas to get you started:
     <td>Network</td>
   </tr>
   <tr>
-    <td><strong><a href="https://github.com/melodydesousa/Minishell">minishell</a></strong></td>
+    <td><strong><a href="https://github.com/melodydesousa/42/tree/877b900035656e672cc020e6a578b77f8a8aa658/Minishell">minishell</a></strong></td>
     <td><a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clhxpqlwf003008l2szb5ovnx/project/2851362" alt="mede-sou's 42 minishell Score" /></a></td>
 <td><p>Create a minimalist shell by exploring the concept of processes and file descriptors</p></td>
     <td>C</td>
