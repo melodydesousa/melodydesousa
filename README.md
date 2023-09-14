@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🌱 I’m currently learning at 42 Paris School
+🌱 I just finished the common core at 42 Paris School
 
 <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clhxpqlwf003008l2szb5ovnx/stats?cursusId=21&coalitionId=45" alt="mede-sou's 42 stats" /></a>
 
