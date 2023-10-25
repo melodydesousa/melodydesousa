@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🌱 I just finished the common core at 42 Paris School
+🌱 I just finished the common core at 42 Paris School and I am now looking for an internship
 
 <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clhxpqlwf003008l2szb5ovnx/stats?cursusId=21&coalitionId=45" alt="mede-sou's 42 stats" /></a>
 
@@ -29,6 +29,12 @@ Here are some ideas to get you started:
     <th>Objective</th>
     <th>Language</th>
   </tr>
+   <tr>
+    <td><strong><a href="https://github.com/melodydesousa/42/tree/d9ac1d1f3b328f5178981659ff9a37b71b19f299/transcendence">Transcendence</a></strong></td>
+    <td><p> 100%</p></td>
+<td><p>This project involves creating a website to participate in a competition for the popular game Pong ! It must include a chat so that players can communicate, invite each other to the game, and add each other as friends.</p></td>
+    <td>System admin.</td>
+  </tr>  
   <tr>
     <td><strong><a href="https://github.com/melodydesousa/42/tree/a780fa2546366c3fdd90d7a5cad5a860059a15f8/Inception">Inception</a></strong></td>
     <td><a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clhxpqlwf003008l2szb5ovnx/project/3070405" alt="mede-sou's 42 Inception Score" /></a></td>
