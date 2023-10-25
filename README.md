@@ -31,9 +31,9 @@ Here are some ideas to get you started:
   </tr>
    <tr>
     <td><strong><a href="https://github.com/melodydesousa/42/tree/d9ac1d1f3b328f5178981659ff9a37b71b19f299/transcendence">Transcendence</a></strong></td>
-    <td><p> 100%</p></td>
-<td><p>This project involves creating a website to participate in a competition for the popular game Pong ! It must include a chat so that players can communicate, invite each other to the game, and add each other as friends.</p></td>
-    <td>System admin.</td>
+    <td>100%</td>
+<td><p>Create a website to participate in a competition for the popular game Pong ! Includes a chat, authentification, invitations etc...</p></td>
+    <td>Back: Node.js, Front: ReactJS</td>
   </tr>  
   <tr>
     <td><strong><a href="https://github.com/melodydesousa/42/tree/a780fa2546366c3fdd90d7a5cad5a860059a15f8/Inception">Inception</a></strong></td>
