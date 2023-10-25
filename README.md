@@ -47,7 +47,7 @@ Here are some ideas to get you started:
   </tr>  
   <tr>
     <td><strong><a href="https://github.com/melodydesousa/42/tree/eafcbd011fadfcff8ac3eb6c348fb22a8cdd5e74/Webserv">webserv</a></strong></td>
-    <td><100%</td>
+    <td>100%</td>
 <td><p>Write our own HTTP server and a static website</p></td>
     <td>C++</td>
   </tr>  
