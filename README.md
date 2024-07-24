@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 🌱 After 1 year at 42 Paris School and a 6-month internship as a front-end developer, I am now looking for a new opportunity
 
 <hr>
-
 💻 My 42 Projects
 <table>
   <tr>
