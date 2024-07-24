@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🌱 I finished the common core at 42 Paris School and I am now looking for an internship
+🌱 After 1 year at 42 Paris School and a 6-month internship as a front-end developer, I am now looking for a new opportunity
 
 <hr>
 
