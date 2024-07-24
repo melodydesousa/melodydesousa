@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 
 <hr>
 💻 My 42 Projects
+
 <table>
   <tr>
     <th>Project name</th>
