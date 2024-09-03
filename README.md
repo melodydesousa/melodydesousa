@@ -17,7 +17,12 @@ Here are some ideas to get you started:
 
 🌱 After 1 year at 42 Paris School and a 6-month internship as a front-end developer, I am now looking for a new opportunity
 
-## 🙋‍♀️ My personal projects
+## 💻 Profesionnal projects
+
+### Beam:
+<img width="893" alt="Capture d’écran 2024-09-03 à 11 37 33" src="https://github.com/user-attachments/assets/d979cd12-d373-46c2-b230-915264fb597c">
+
+## 🙋‍♀️ Personal projects
 
 ### Movie Browser:
 <img width="1046" alt="Capture d’écran 2024-09-03 à 11 15 27" src="https://github.com/user-attachments/assets/8242880b-c472-449a-b662-b9205d6a621e">
@@ -26,7 +31,9 @@ Here are some ideas to get you started:
 ### Environmental impacts on textile simulator:
 <img width="1080" alt="Capture d’écran 2024-09-03 à 11 25 01" src="https://github.com/user-attachments/assets/cb13caaf-2450-44d6-9cb8-93c75f6a886a">
 
-## 💻 My 42 Projects
+
+
+## 📚 42 Projects
 
 <table>
   <tr>
