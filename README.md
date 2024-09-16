@@ -31,6 +31,8 @@ Here are some ideas to get you started:
 ### Environmental impacts on textile simulator:
 <img width="1080" alt="Capture d’écran 2024-09-03 à 11 25 01" src="https://github.com/user-attachments/assets/cb13caaf-2450-44d6-9cb8-93c75f6a886a">
 
+### Hospital dashboard:
+<img width="1423" alt="Capture d’écran 2024-09-16 à 17 26 22" src="https://github.com/user-attachments/assets/4f8a52f5-b2a9-4267-9d3c-222cffe172eb">
 
 
 ## 📚 42 Projects
